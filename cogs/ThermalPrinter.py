@@ -18,7 +18,7 @@ class ThermalPrinter(commands.Cog):
     async def on_message(self, message):
 
         if not (
-            any(word in str(message.content) for word in ["help", "start", "learn", "please"])
+            any(word in str(message.content) for word in ["want", "make", "help", "start", "learn", "please"])
             and
             any(word in str(message.content) for word in ["thermal", "receipt", "printer"])
         ):
