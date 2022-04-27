@@ -25,7 +25,10 @@ class ThermalPrinter(commands.Cog):
             return
 
         schema: Optional[str] = {
-            "_getPayPal": "paypal@isaackogan.com",
+            "_getPayPal": (
+                "paypal@isaackogan.com\n\n"
+                "PLEASE make sure you select 'No Address Required' if you choose to send via business."
+            ),
             "_getBTC": "bc1qdceyw3ekmz5ehdrjukn49dgj79npgkwtmkk8sn",
             "_getETH": "0x17C200a5858D6CFE698A1eb31627d504ae0582e3"
         }.get(interaction.button.id)
