@@ -54,7 +54,7 @@ class ThermalPrinter(commands.Cog):
                 "advanced usage/customization.\n\n"
                 "Purchasing the `TikTokPrinter` library grants you access to all future releases "
                 "of the product, and, private channels relating to developing around the library.\n\n"
-                "The cost for this library is `$50 USD`. This is unbelievably cheap. Simply [**check out**](https://github.com/isaackogan/TikTokLivePrinterPrivate) the "
+                "The cost for this library is `$50 USD`. This is unbelievably cheap. Simply [**check out**](https://github.com/isaackogan/TikTokprinter) the "
                 "*extensive* feature list, maintained docs, and robust examples on the GitHub page.\n\n"
                 "Payments are available through `PayPal/BTC/ETH` and are in USD. Delivery time can vary based on when a support agent is available. "
                 "Items that have been paid for will be delivered on average within `0-3 hours`, at maximum within 24 hours.\n\n"
